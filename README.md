@@ -4,7 +4,7 @@
 
    
 - 🔭  Hoje trabalho com manutenção de computadores   
-- 🌱 Estudando  java  e  CSharp  
+- 🌱 Estudando  java , python    
 - 📫 Contate no  email:  mmtecnologia.tech@gmail.com
 <div align="center">
   <a href="https://github.com/MarcoAdrianoTech">

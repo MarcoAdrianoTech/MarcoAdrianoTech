@@ -3,7 +3,7 @@
 
 
    
-- 🔭  Hoje trabalho com manutenção de computadores   
+- 🔭  SUPORT  
 - 🌱 Estudando  java , python    
 - 📫 Contate no  email:  mmtecnologia.tech@gmail.com
 <div align="center">

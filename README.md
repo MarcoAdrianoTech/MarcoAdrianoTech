@@ -4,7 +4,7 @@
 
    
 - 🔭  SUPORT  
-- 🌱 Estudando  java , python    
+- 🌱 Estudando  Java , Python ,JavaScript      
 - 📫 Contate no  email:  mmtecnologia.tech@gmail.com
 <div align="center">
   <a href="https://github.com/MarcoAdrianoTech">

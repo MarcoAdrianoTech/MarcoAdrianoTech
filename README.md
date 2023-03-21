@@ -3,7 +3,7 @@
 
 
    
-- 🔭  SUPORT  
+
 - 🌱 Estudando  Java , Python ,JavaScript      
 - 📫 Contate no  email:  mmtecnologia.tech@gmail.com
 <div align="center">
